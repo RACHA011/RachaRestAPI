@@ -1,4 +1,5 @@
 RachaRestAPI
+
 RachaRestAPI is a RESTful API built with Spring Boot for managing user accounts and authentication. It provides endpoints for user registration, authentication, profile management, and role-based access control.
 
 Key Features:
